@@ -1,4 +1,29 @@
-1 - Crie um código que faça uma calculadora que tenha as operações básicas(+,-,*,/).
+1 - Crie uma função que calcula a gorjeta a ser deixada em um restaurante, com base no valor total da conta e na porcentagem de
+gorjeta desejada. Cálculo do valor da gorjeta com base no total da conta e na porcentagem desejada.
+Parâmetros:
+a - valor_conta (float): O valor total da conta
+b - porcentagem_gorjeta (float): A porcentagem da gorjeta (ex: 10 para 10%)
+c - retornos: float: O valor da gorjeta calculada
+
+2- Crie uma função que verifique se uma palavra ou frase é um palíndromo (lê-se igual de trás para frente, ignorando espaços e pontuação). Se o resultado for Verdadeiro, responda “Sim”, se o resultado for Falso, responda “Não”.
+
+3 - Crie um programa que sirva para calcular o preço final de um produto após aplicar um desconto percentual.
+a - Cálculo de desconto: Cálculo do valor do desconto baseado em uma porcentagem.
+b - Preço final: Determina o novo preço após o desconto.
+c - Formatação: Arredonda o resultado para 2 casas decimais (centavos).
+d - Interação com o usuário: Pede os valores necessários e mostra o resultado formatado.
+
+4 - Crie um programa que calcule a quantos dias um indivíduo está vivo de acordo com os dados do dia.
+
+2- Crie uma função que verifique se uma palavra ou frase é um palíndromo (lê-se igual de trás para frente, ignorando espaços e pontuação). Se o resultado for Verdadeiro, responda “Sim”, se o resultado for Falso, responda “Não”.
+
+3 - Crie um programa que sirva para calcular o preço final de um produto após aplicar um desconto percentual.
+a - Cálculo de desconto: Cálculo do valor do desconto baseado em uma porcentagem.
+b - Preço final: Determina o novo preço após o desconto.
+c - Formatação: Arredonda o resultado para 2 casas decimais (centavos).
+d - Interação com o usuário: Pede os valores necessários e mostra o resultado formatado.
+
+4 - Crie um programa que calcule a quantos dias um indivíduo está vivo de acordo com os dados do dia.
 
 
 

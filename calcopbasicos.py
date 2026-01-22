@@ -29,3 +29,4 @@ def calculadora():
 
 # Executando a calculadora
 print(calculadora())
+
