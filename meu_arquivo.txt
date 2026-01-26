@@ -1,0 +1,4 @@
+Olá! Este é um arquivo de teste.
+Python é uma linguagem incrível para manipular dados.
+Esta é a terceira linha do arquivo.
+Fim do teste!

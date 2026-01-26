@@ -1,30 +1,19 @@
-1- Conversor de Moeda
-Crie um programa que converte um valor em reais para dólares e euros. Utilize os seguintes dados:
+1 - Crie um programa que  gere senhas solicitadas com letras, números e símbolos  e que o usuário também escolha o tamanho da senha para criar senhas seguras automaticamente.
 
-* Valor em reais: R$ 100,00
-* Taxa do dólar: R$ 5,20
-* Taxa do euro: R$ 6,15
-O programa deve calcular e exibir os valores convertidos, arredondando para duas casas decimais.
+2 - Crie um programa que acesse a API para buscar um usuário específico aleatório. exibindo o nome, e-mail e país desse usuário, caso haja erro na conexão, mostre uma mensagem de falha.
 
-2- Calculadora de Desconto
-Desenvolva um programa que calcula o desconto em uma loja. Utilize as seguintes informações:
+3 - Crie um programa que consulte informações de uma API, retorne logradouro, bairro, cidade e estado do CEP digitalizado, caso o CEP não exista ou haja erro na requisição, mostre uma mensagem de falha.
 
-* Nome do produto: "Camiseta"
-* Preço original: R$ 50,00
-* Porcentagem de desconto: 20%
-O programa deve calcular o valor do desconto e o preço final, exibindo todos os detalhes.
+4 - Crie um programa que realize consultas em relação ao Real (BRL) usando a API mostre valor atual, máximo, mínimo e data/hora da última atualização, caso a moeda não exista ou haja erro na requisição, retorne uma mensagem de erro.
 
-3- Calculadora de Média Escolar
-Crie um programa que calcula a média escolar de um aluno. Utilize as seguintes notas:
 
-* Nota 1: 7.5
-* Nota 2: 8.0
-* Nota 3: 6.5
-O programa deve calcular a média e exibir todas as notas e o resultado final, arredondando para duas casas decimais.
 
-4- Calculadora de Consumo de Combustível
-Desenvolva um programa que calcula o consumo médio de combustível de um veículo. Use os seguintes dados:
 
-* Distância percorrida: 300 km
-* Gasto combustível: 25 litros
-O programa deve calcular o consumo médio (km/l) e exibir todos os dados da viagem, incluindo o resultado final arredondado para duas casas decimais.
+1 - Crie um programa que lê um arquivo CSV de com a biblioteca , calcule e exiba a e o da coluna tempo_execucao, caso o arquivo não exista ou haja erro na leitura, mostre uma mensagem de erro. 
+
+
+2 - Crie um programa que cria um arquivo com nome, idade e cidade de algumas pessoas, que este programa escreva os dados em formato tabular e salve o arquivo escolhido pelo usuário, caso ocorra um erro ao salvar, mostre uma mensagem de falha. 
+
+3 - Crie um programa que leia um arquivo informado pelo usuário, percorrendo cada linha do arquivo e a exibindo na tela, caso o arquivo não seja encontrado, mostre uma mensagem de erro.
+
+4 - Crie um programa que leia e escreva arquivos no formato , que salve em um dicionário com nome, idade e cidade em um arquivo JSON e depois leia o mesmo arquivo exibindo os dados, caso o arquivo não exista ou ocorra erro ao salvar, mostre uma mensagem de falha.
